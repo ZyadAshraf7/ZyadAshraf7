@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZyadAshraf7/](https://github.com/ZyadAshraf7/)
 
-- 💬 Ask me about **Flutter, Dart, Firebase, python, ML, Deep Learning**
+- 💬 Ask me about **Flutter, Dart, Firebase, python, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **zyadharfosh88@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P3c2DmDg4VXsvkDNdMJLVhzjX2AP1iVQ/view?usp=sharing](https://drive.google.com/file/d/1P3c2DmDg4VXsvkDNdMJLVhzjX2AP1iVQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P3c2DmDg4VXsvkDNdMJLVhzjX2AP1iVQ/view?usp=sharing](https://drive.google.com/file/d/1qlkdEm8W7SFgzaEZzRM0DbFMlhbMP6V_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
