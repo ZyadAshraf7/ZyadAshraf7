@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=170667a&w=0&k=20&c=l2guNn4wqKHIYoM0nLJyeYX8WMlrDYmStypGtTgVVTQ=)
+![MasterHead](https://careers.dft.gov.uk/wp-content/uploads/2022/10/DVLA-Software-Developer-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Zyad Ashraf.<br>Software Developer at Masria Digital Payments (MDP)</h1>
 <h3 align="center">A passionate Software Developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
