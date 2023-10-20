@@ -1,5 +1,5 @@
 ![MasterHead](https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=170667a&w=0&k=20&c=l2guNn4wqKHIYoM0nLJyeYX8WMlrDYmStypGtTgVVTQ=)
-<h1 align="center">Hi 👋, I'm Zyad Ashraf.\nSoftware Developer at Masria Digital Payments (MDP)</h1>
+<h1 align="center">Hi 👋, I'm Zyad Ashraf.<br>Software Developer at Masria Digital Payments (MDP)</h1>
 <h3 align="center">A passionate Software Developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadashraf7&label=Profile%20views&color=0e75b6&style=flat" alt="zyadashraf7" /> </p>
