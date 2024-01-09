@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadashraf7&label=Profile%20views&color=0e75b6&style=flat" alt="zyadashraf7" /> </p>
 
-- 🔭 I’m currently working on [Evira Store by Flutter](https://github.com/ZyadAshraf7/evira-store)
+- 🔭 I’m currently working in **Masria Digital Payments MDP** as a Full Stack Software Engineer
 
 - 🌱 I’m currently learning **Clean Architecture**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **zyadharfosh88@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P3c2DmDg4VXsvkDNdMJLVhzjX2AP1iVQ/view?usp=sharing](https://drive.google.com/file/d/1qlkdEm8W7SFgzaEZzRM0DbFMlhbMP6V_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P3c2DmDg4VXsvkDNdMJLVhzjX2AP1iVQ/view?usp=sharing](https://drive.google.com/file/d/1u5pbrp4gJgPmecO5c0De9yDHiJ9K2Agb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
