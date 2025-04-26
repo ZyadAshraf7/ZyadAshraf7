@@ -1,10 +1,10 @@
 ![MasterHead](https://careers.dft.gov.uk/wp-content/uploads/2022/10/DVLA-Software-Developer-Blog-Banner.png)
-<h1 align="center">Hi 👋, I'm Zyad Ashraf.<br>Software Developer at Masria Digital Payments (MDP)</h1>
-<h3 align="center">Passionate Software Developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Ziad Ashraf.<br>Software Engineer at Taly for Digital Payments Ex. MDP</h1>
+<h3 align="center">Passionate Software Engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadashraf7&label=Profile%20views&color=0e75b6&style=flat" alt="zyadashraf7" /> </p>
 
-- 🔭 I’m currently working in **Masria Digital Payments MDP** as a Full-Stack Software Engineer
+- 🔭 I’m currently working at **Taly Digital Payments** as a Full-Stack Software Engineer
 
 - 🌱 I’m currently learning **Clean Architecture**
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about **C#, .NET Framework, Angular, Flutter, Dart, Firebase, python, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **zyadharfosh88@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1u5pbrp4gJgPmecO5c0De9yDHiJ9K2Agb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
